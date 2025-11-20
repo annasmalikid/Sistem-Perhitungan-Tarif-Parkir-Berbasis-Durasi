@@ -1,1 +1,1 @@
-# Sistem-Perhitungan-Tarif-Parkir-Berbasis-Durasi
+[Tugas UTS] Bahasa Pemograman - Bapak Sophian Andhika Sardi, S.Kom., M.Kom.
